@@ -1,0 +1,153 @@
+body {
+    position: relative;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Images/city_glimmers2.png);
+}
+
+#main {
+    background-color: #A15C4C;
+}
+
+.container {
+    background-color: #773323;
+}
+
+.navbar-inverse {
+    background-color: #3F0D02;
+    border-color: #773323;
+    color: #FFE1D9;
+}
+
+.jumbotron {
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: #3F0d02;
+}
+
+.jumbotron h1 {
+    margin-left: 10px;
+    padding: 10px;
+    padding-right: 0px;
+    width: 80%;
+    background-color: #FFE1D9;
+    color: #3F0D02;
+    text-shadow: 3px 3px 6px #773323;
+    box-shadow: 5px 5px 8px #A15C4C;
+}
+
+.jumbotron img {
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: 10px;
+    border: 8px ridge #FFE1D9;
+    box-shadow: 8px 7px 8px #A15C4C;
+}
+
+.jumbotron p {
+    margin-left: 10px;
+    margin-bottom: 25px;
+    padding: 20px;
+    display: block;
+    width: 80%;
+    background-color: #FFE1D9;
+    color: #3F0D02;
+    border: 4px ridge #773323;
+    box-shadow: 5px 5px 8px #A15C4C;
+}
+
+.jumbotron a {
+    margin-left: 20px;
+    padding: 15px;
+    background-color: #A15C4C;
+    border: 4px ridge #773323
+}
+
+a:link {
+    color: #FFE1D9;
+}
+
+a:visited {
+    color: #773323;
+}
+
+a:hover {
+    color: #3F0D02;
+}
+
+h2 {
+    margin: 10px;
+    padding: 10px;
+    background-color: #FFE1D9;
+    color: #3F0D02;
+    font-weight: bold;
+    border: 4px ridge #773323;
+    box-shadow: 5px 5px 8px #773323;
+}
+
+h3 {
+    padding: 10px;
+    color: #FFE1D9;
+    background-color: #3F0d02;
+    font-weight: bold;
+    border: 4px ridge #773323;
+    box-shadow: 5px 5px 8px #773323;
+}
+
+h4 {
+    padding: 5px;
+    font-weight: bolder;
+    border: 3px ridge #773323;
+    box-shadow: 4px 4px 6px #773323;
+}
+
+.row {
+    padding: 20px;
+    margin: 30px;
+    background-color: #FFE1D9;
+    border: 4px ridge #773323;
+    box-shadow: 5px 5px 8px #773323;
+}
+
+.row ul {
+    padding: 20px;
+    color: #3F0D02;
+    border: 5px outset #773323;
+    box-shadow: 4px 4px 6px #773323;
+}
+
+li {
+    font-weight: 600;
+}
+
+#education li {
+    margin-left: 20px;
+}
+
+#gallery {
+    margin-top: 250px;
+    margin-bottom: 200px;
+}
+
+.carousel {
+    background: #773323;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 60px;
+    height: 40%;
+}
+
+.carousel .item img {
+    margin: 0 auto;
+}
+
+footer p {
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    padding: 25px;
+    color: #D29788;
+    background-color: #3F0D02;
+    text-align: center;
+}
